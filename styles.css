@@ -1,0 +1,8 @@
+.heart-button {
+    color: gray;
+    cursor: pointer;
+}
+
+.heart-button.liked {
+    color: red;
+}
